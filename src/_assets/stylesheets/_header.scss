@@ -1,6 +1,10 @@
 header {
   .navbar-brand {
-    float: none;
+   /* float: none;*/
+    position: fixed;
+    top: 10px;
+
+
   }
 
   .logo {

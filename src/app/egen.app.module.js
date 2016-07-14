@@ -32,11 +32,6 @@
                         templateUrl: 'app/features/header/header.tmpl.html',
                         controller: 'HeaderController',
                         controllerAs: 'headerVm'
-                    },
-                    'footer@egen': {
-                        templateUrl: 'app/features/footer/footer.tmpl.html',
-                        controller: 'FooterController',
-                        controllerAs: 'footerVm'
                     }
                 }
             })
